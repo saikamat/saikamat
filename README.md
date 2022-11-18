@@ -1,4 +1,4 @@
-![MasterHead](images/banner.jpg)
+![MasterHead](banner.jpg)
 <h1 align="center">Hi 👋, I'm Sai Kamat</h1>
 <h3 align="center">Pretty experienced developer+salesman from Mumbai. But based out of Berlin for over 6 years.</h3>
 
